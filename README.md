@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="demo-images/logo.png" alt="NICU Dashboard Logo" width="180">
-</p>
-
 <h1 align="center">🏥 NICU Neonate Risk Dashboard</h1>
 
 <p align="center">
@@ -22,10 +18,6 @@
 
 A real-time clinical decision support dashboard for **Neonatal Intensive Care Units (NICU)** at CHU Oujda, Morocco. The system ingests free-text French medical reports, extracts 70+ structured clinical fields using **MedGemma**, performs risk assessment through **RAG** against a corpus of **1,230 real patient records**, and provides explainable clinical interpretation — all running **100% locally** with no cloud dependencies.
 
-<p align="center">
-  <img src="demo-images/card-thumb.png" alt="Dashboard Preview" width="800">
-</p>
-
 ### Key Features
 
 - 🧠 **MedGemma-powered extraction** — Parses unstructured French medical text into 70+ structured clinical fields
@@ -39,10 +31,6 @@ A real-time clinical decision support dashboard for **Neonatal Intensive Care Un
 ---
 
 ## 🏗️ Architecture
-
-<p align="center">
-  <img src="demo-images/archi.png" alt="Architecture Diagram" width="700">
-</p>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -269,7 +257,7 @@ The system includes a corpus of **1,230 real neonatal patient records** from CHU
 
 ## 🎥 Demo
 
-📹 [Watch the demo video](demo-video.mp4)
+📹 [Watch the demo video](https://youtu.be/mS3dk6yu6AI)
 
 ---
 
