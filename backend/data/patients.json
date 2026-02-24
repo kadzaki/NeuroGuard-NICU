@@ -1,0 +1,2316 @@
+[
+  {
+    "id": "80646a39",
+    "created_at": "2026-02-24T11:12:00.857965",
+    "raw_report": "Deleted for confidentiality",
+    "record": {
+      "date_entrée": "2023-03-26",
+      "date_décès": "2023-03-28",
+      "date_sortie": null,
+      "sexe_nouveau_né": "M",
+      "date_naissance": "2023-03-26",
+      "type_mariage": "consanguin",
+      "degré_consanguinité": "3°",
+      "ville_origine": null,
+      "ville_actuelle": null,
+      "couverture_sanitaire": null,
+      "admis_quel_jour": "J1",
+      "âge_mère": 22,
+      "nombre_fausses_accouchement": 1,
+      "type_grossesse": "bien suivie",
+      "suivi_grossesse": "oui",
+      "grossesse_mené_à_terme": "non",
+      "dubowitz": "33 SA",
+      "type_accouchement": "médicalisé",
+      "voie_accouchement": "basse",
+      "anamnèse_infectieuse": "positive",
+      "groupage_maman": null,
+      "APGAR_naissance": "4/10 puis 5/10",
+      "couleur": "cyanosé",
+      "tonicité": "hypotonique",
+      "réactivité": "hyporéactif",
+      "RSD": "faibles",
+      "RA": "faibles",
+      "hémodynamique_FC": "60 Bpm",
+      "hémodynamique_TRC": "<3 sec",
+      "respiratoire_SS": "AAA à 60%",
+      "respiratoire_SaO2": "60%",
+      "respiratoire_FR": "60 cpm",
+      "glycémie_capillaire": null,
+      "poids": 1900,
+      "taille": null,
+      "périmètre_crânien": null,
+      "MV": null,
+      "râles_auscultation": "pas de râles",
+      "thorax_morphologie": "normale",
+      "abdomen": "souple",
+      "masse_palpable": "pas de masse palpable",
+      "HSMG": "pas d'HSMG",
+      "B1B2": "bien perçus",
+      "souffle_surajouté": "pas de souffle",
+      "bruits_surajoutés": null,
+      "Hb": 16.9,
+      "OGE_sexe": null,
+      "testicules": null,
+      "bilan_malformatif": null,
+      "radio_thorax": "MMH stade 3",
+      "MEC": null,
+      "NFS_hb": 16.9,
+      "plaquettes": 210000,
+      "urée": null,
+      "créat": null,
+      "ionogramme_Nat": null,
+      "ionogramme_K_plus": null,
+      "ionogramme_AÏb": null,
+      "GB": 10540,
+      "ETF": null,
+      "PNN": 5510,
+      "CPK": null,
+      "ECBU": null,
+      "valeur_ECBU": null,
+      "lymphopénie": null,
+      "CRP": null,
+      "contrôlé_âpres": null,
+      "LDH": null,
+      "calcémie": 80,
+      "albuminémie": 26,
+      "TP": 39,
+      "décédé": true
+    },
+    "dashboard": {
+      "name": "Nné jumeau 2 de Mme IP",
+      "mrn": "XXXXX1",
+      "ga": 33,
+      "bw": 1900,
+      "dob": "2023-03-26",
+      "admissionDate": "2023-03-26",
+      "currentSupport": "non spécifié",
+      "sex": "M",
+      "dayOfLife": 1,
+      "overallRisk": "high",
+      "overallTrend": "increasing",
+      "risks": [
+        {
+          "label": "Risque élevé de décès lié à la prématurité et à la détresse respiratoire",
+          "horizon": "24h",
+          "level": "high",
+          "probabilityRange": "30–50%",
+          "trend": "increasing",
+          "delta": "augmentation des complications respiratoires observées"
+        }
+      ],
+      "contributingFactors": [
+        {
+          "id": "f1",
+          "text": "Prématurité à 33 SA avec détresse respiratoire néonatale",
+          "trend": "increasing",
+          "dataSnippet": "DRNN sur prématurité",
+          "noteExcerpt": "Diagnostic d’admission : DRNN sur prématurité",
+          "similarCaseSummary": "Parmi les cas similaires, 3 sur 10 ont eu des issues défavorables liées à la prématurité."
+        }
+      ],
+      "similarCases": [
+        {
+          "id": "SC1",
+          "ga": 35,
+          "bw": 2800,
+          "mainIssue": "Détresse respiratoire sur Maladie de la membrane hyaline",
+          "outcomeSummary": "Sortie sans décès",
+          "timeToEvent": "3 jours",
+          "similarityScore": 65.1,
+          "details": "Nouveau-né masculin, poids de 2.8 kg, admis pour DRNN sur prématurité, traitement efficace."
+        },
+        {
+          "id": "SC2",
+          "ga": 32,
+          "bw": 1600,
+          "mainIssue": "DRNN sur prématurité",
+          "outcomeSummary": "Issue non spécifiée, mais pas de décès",
+          "timeToEvent": "non spécifié",
+          "similarityScore": 65.0,
+          "details": "Nouveau-né masculin, poids de 1.6 kg, admis pour DRNN, traitement en cours."
+        },
+        {
+          "id": "SC3",
+          "ga": 31,
+          "bw": 1300,
+          "mainIssue": "DRNN sur grande prématurité",
+          "outcomeSummary": "Issue non spécifiée, mais pas de décès",
+          "timeToEvent": "non spécifié",
+          "similarityScore": 64.7,
+          "details": "Nouveau-né masculin, poids de 1.3 kg, admis pour DRNN, traitement en cours."
+        }
+      ],
+      "clinicalInterpretation": {
+        "summary": "Le nouveau-né présente un risque élevé de décès en raison de sa prématurité et de ses complications respiratoires, comme observé dans les cas similaires.",
+        "uncertaintyFlags": [
+          "données manquantes sur le suivi post-natal",
+          "absence de détails sur les interventions spécifiques"
+        ]
+      },
+      "vitals": [],
+      "interventions": []
+    },
+    "rag_cases": [
+      {
+        "source_file": "cr_808.json",
+        "similarity_score": 65.1,
+        "matches": [
+          {
+            "field": "sexe_nouveau_né",
+            "label": "Sexe",
+            "queryValue": "Masculin",
+            "candidateValue": "Masculin",
+            "strength": "high",
+            "reason": "Match exact"
+          },
+          {
+            "field": "dubowitz",
+            "label": "Âge Gestationnel",
+            "queryValue": "33SA",
+            "candidateValue": "35 SA + 2j (1 dose de corticothérapie reçu)",
+            "strength": "high",
+            "reason": "Écart: 2 semaines"
+          },
+          {
+            "field": "date_décès",
+            "label": "Issue (décès)",
+            "queryValue": "Survivant",
+            "candidateValue": "Survivant",
+            "strength": "high",
+            "reason": "Même issue"
+          },
+          {
+            "field": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "queryValue": "Voie basse",
+            "candidateValue": "Voie basse",
+            "strength": "high",
+            "reason": "Même voie"
+          },
+          {
+            "field": "type_mariage",
+            "label": "Consanguinité",
+            "queryValue": "Consanguin",
+            "candidateValue": "Consanguin",
+            "strength": "high",
+            "reason": "Même type"
+          }
+        ],
+        "fields": [
+          {
+            "key": "diagnostic_admission",
+            "label": "Diagnostic admission",
+            "value": "DRNN sur prématurité",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "diagnostic_sortie",
+            "label": "Diagnostic sortie",
+            "value": "détresse respiratoire sur Maladie de la membrane hyaline stade 2",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "date_entrée",
+            "label": "Date d'entrée",
+            "value": "21/07/2023",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "date_sortie",
+            "label": "Date de sortie",
+            "value": "24/07/2023",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "raison_admission",
+            "label": "Raison d'admission",
+            "value": "détresse respiratoire sur prématurité",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "sexe_nouveau_né",
+            "label": "Sexe",
+            "value": "Masculin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Match exact"
+          },
+          {
+            "key": "date_naissance",
+            "label": "Date de naissance",
+            "value": "21/07/2023",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "type_mariage",
+            "label": "Consanguinité",
+            "value": "Consanguin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même type"
+          },
+          {
+            "key": "degré_consanguinité",
+            "label": "Degré consanguinité",
+            "value": "3",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ville_origine",
+            "label": "Ville",
+            "value": "OUJDA",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ville_actuelle",
+            "label": "ville_actuelle",
+            "value": "OUJDA",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "couverture_sanitaire",
+            "label": "Couverture sanitaire",
+            "value": "AMO",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "âge_mère",
+            "label": "Âge mère",
+            "value": "40",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "antécédent_mère",
+            "label": "Antécédents mère",
+            "value": "G4P4E3 (1 mort-né)",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "type_grossesse",
+            "label": "Type grossesse",
+            "value": "prématurité",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "suivi_grossesse",
+            "label": "Suivi grossesse",
+            "value": "True",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "grossesse_mené_à_terme",
+            "label": "Grossesse à terme",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "dubowitz",
+            "label": "Âge Gestationnel",
+            "value": "35 SA + 2j (1 dose de corticothérapie reçu)",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Écart: 2 semaines"
+          },
+          {
+            "key": "type_accouchement",
+            "label": "Type accouchement",
+            "value": "Médicalisé",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "value": "Voie basse",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même voie"
+          },
+          {
+            "key": "anamnèse_infectieuse",
+            "label": "Anamnèse infectieuse",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "APGAR_naissance",
+            "label": "APGAR",
+            "value": "6/10 puis 8/10 puis 10/10",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "couleur",
+            "label": "Couleur",
+            "value": "rose",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "tonicité",
+            "label": "Tonicité",
+            "value": "hypotonique",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "réactivité",
+            "label": "Réactivité",
+            "value": "hyporéactif",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RSD",
+            "label": "RSD",
+            "value": "présents mais faibles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RA",
+            "label": "RA",
+            "value": "présents mais faibles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_FC",
+            "label": "FC",
+            "value": "142",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_TRC",
+            "label": "TRC",
+            "value": "inf à 3",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SaO2",
+            "label": "SaO2",
+            "value": "66",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_FR",
+            "label": "FR",
+            "value": "54",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "poids",
+            "label": "Poids",
+            "value": "2.8",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "taille",
+            "label": "Taille",
+            "value": "49.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "périmètre_crânien",
+            "label": "Périmètre crânien",
+            "value": "30.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "MV",
+            "label": "MV",
+            "value": "Bien transmises",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "râles_auscultation",
+            "label": "Râles",
+            "value": "Pas de râles crépitants",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "thorax_morphologie",
+            "label": "Thorax",
+            "value": "Normale",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "abdomen",
+            "label": "Abdomen",
+            "value": "Souple",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "masse_palpable",
+            "label": "masse_palpable",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "HSMG",
+            "label": "HSMG",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "B1B2",
+            "label": "B1 B2",
+            "value": "Bien perçus",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "souffle_surajouté",
+            "label": "Souffle",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "OGE_sexe",
+            "label": "OGE",
+            "value": "Masculin",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "testicules",
+            "label": "Testicules",
+            "value": "En places",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "bilan_malformatif",
+            "label": "Bilan malformatif",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "radio_thorax",
+            "label": "Radio thorax",
+            "value": "maladie de membrane hyaline stade 2",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "NFS_hb",
+            "label": "NFS Hb",
+            "value": "16.4",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "plaquettes",
+            "label": "Plaquettes",
+            "value": "1814000.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "GB",
+            "label": "GB",
+            "value": "13260.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "PNN",
+            "label": "PNN",
+            "value": "9540.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "CPK",
+            "label": "CPK",
+            "value": "255.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "lymphopénie",
+            "label": "Lymphopénie",
+            "value": "2370.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "CRP",
+            "label": "CRP",
+            "value": "1.33",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "LDH",
+            "label": "LDH",
+            "value": "1199.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "calcémie",
+            "label": "Calcémie",
+            "value": "86.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "albuminémie",
+            "label": "Albuminémie",
+            "value": "31.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          }
+        ],
+        "match_count": 5,
+        "total_match_fields": 5,
+        "is_deceased": false
+      },
+      {
+        "source_file": "cr_388.json",
+        "similarity_score": 65.0,
+        "matches": [
+          {
+            "field": "sexe_nouveau_né",
+            "label": "Sexe",
+            "queryValue": "Masculin",
+            "candidateValue": "Masculin",
+            "strength": "high",
+            "reason": "Match exact"
+          },
+          {
+            "field": "dubowitz",
+            "label": "Âge Gestationnel",
+            "queryValue": "33SA",
+            "candidateValue": "32SA",
+            "strength": "high",
+            "reason": "Écart: 1 semaines"
+          },
+          {
+            "field": "date_décès",
+            "label": "Issue (décès)",
+            "queryValue": "Survivant",
+            "candidateValue": "Survivant",
+            "strength": "high",
+            "reason": "Même issue"
+          },
+          {
+            "field": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "queryValue": "Voie basse",
+            "candidateValue": "Voie basse à CHR ALFarabi",
+            "strength": "high",
+            "reason": "Même voie"
+          },
+          {
+            "field": "type_mariage",
+            "label": "Consanguinité",
+            "queryValue": "Consanguin",
+            "candidateValue": "Consanguin",
+            "strength": "high",
+            "reason": "Même type"
+          }
+        ],
+        "fields": [
+          {
+            "key": "diagnostic_admission",
+            "label": "Diagnostic admission",
+            "value": "DRNN sur prématurité",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "sexe_nouveau_né",
+            "label": "Sexe",
+            "value": "Masculin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Match exact"
+          },
+          {
+            "key": "date_naissance",
+            "label": "Date de naissance",
+            "value": "26/03/2023",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "type_mariage",
+            "label": "Consanguinité",
+            "value": "Consanguin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même type"
+          },
+          {
+            "key": "degré_consanguinité",
+            "label": "Degré consanguinité",
+            "value": "3",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "âge_mère",
+            "label": "Âge mère",
+            "value": "22",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "antécédent_mère",
+            "label": "Antécédents mère",
+            "value": "G3P2E3, sans ATCDS pathologique notable",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "suivi_grossesse",
+            "label": "Suivi grossesse",
+            "value": "True",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "grossesse_mené_à_terme",
+            "label": "Grossesse à terme",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "dubowitz",
+            "label": "Âge Gestationnel",
+            "value": "32SA",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Écart: 1 semaines"
+          },
+          {
+            "key": "type_accouchement",
+            "label": "Type accouchement",
+            "value": "Médicalisé",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "value": "Voie basse à CHR ALFarabi",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même voie"
+          },
+          {
+            "key": "APGAR_naissance",
+            "label": "APGAR",
+            "value": "7/10",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "couleur",
+            "label": "Couleur",
+            "value": "rose avec extrémités cyanosées",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "tonicité",
+            "label": "Tonicité",
+            "value": "hypotonique",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "réactivité",
+            "label": "Réactivité",
+            "value": "hyporéactif",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RSD",
+            "label": "RSD",
+            "value": "RS faibles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RA",
+            "label": "RA",
+            "value": "RA très faibles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_FC",
+            "label": "FC",
+            "value": "100 bpm",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_TRC",
+            "label": "TRC",
+            "value": "<3 sec",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SS",
+            "label": "Score Silverman",
+            "value": "5/10",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SaO2",
+            "label": "SaO2",
+            "value": "73% - 98% sous CPAP",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_FR",
+            "label": "FR",
+            "value": "47 cpm",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "poids",
+            "label": "Poids",
+            "value": "1.6",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "thorax_morphologie",
+            "label": "Thorax",
+            "value": "normal",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "abdomen",
+            "label": "Abdomen",
+            "value": "souple",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "masse_palpable",
+            "label": "masse_palpable",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "HSMG",
+            "label": "HSMG",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "B1B2",
+            "label": "B1 B2",
+            "value": "bien perçus",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "souffle_surajouté",
+            "label": "Souffle",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "OGE_sexe",
+            "label": "OGE",
+            "value": "masculin",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "testicules",
+            "label": "Testicules",
+            "value": "en place",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "bilan_malformatif",
+            "label": "Bilan malformatif",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "radio_thorax",
+            "label": "Radio thorax",
+            "value": "MMH stade 3",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "MEC",
+            "label": "Mise en condition",
+            "value": "table chauffante ; VVP, RDB",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "NFS_hb",
+            "label": "NFS Hb",
+            "value": "12.1",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "plaquettes",
+            "label": "Plaquettes",
+            "value": "194000.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "urée",
+            "label": "Urée",
+            "value": "26.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "créat",
+            "label": "Créat",
+            "value": "0.6",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ionogramme_Nat",
+            "label": "Na+",
+            "value": "1371.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ionogramme_K_plus",
+            "label": "K+",
+            "value": "416.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ionogramme_AÏb",
+            "label": "ionogramme_AÏb",
+            "value": "53.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "GB",
+            "label": "GB",
+            "value": "6200.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ETF",
+            "label": "ETF",
+            "value": "MMH stade 3 => 2 doses de surfactant reçues",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "echo_A_P",
+            "label": "echo_A_P",
+            "value": "dans le sens prématurité : sans particuarités",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "PNN",
+            "label": "PNN",
+            "value": "3440.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "CPK",
+            "label": "CPK",
+            "value": "416.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "CRP",
+            "label": "CRP",
+            "value": "6.82",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "LDH",
+            "label": "LDH",
+            "value": "1371.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "calcémie",
+            "label": "Calcémie",
+            "value": "92.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "albuminémie",
+            "label": "Albuminémie",
+            "value": "31.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          }
+        ],
+        "match_count": 5,
+        "total_match_fields": 5,
+        "is_deceased": false
+      },
+      {
+        "source_file": "cr_1126.json",
+        "similarity_score": 64.7,
+        "matches": [
+          {
+            "field": "sexe_nouveau_né",
+            "label": "Sexe",
+            "queryValue": "Masculin",
+            "candidateValue": "Masculin",
+            "strength": "high",
+            "reason": "Match exact"
+          },
+          {
+            "field": "dubowitz",
+            "label": "Âge Gestationnel",
+            "queryValue": "33SA",
+            "candidateValue": "31 SA",
+            "strength": "high",
+            "reason": "Écart: 2 semaines"
+          },
+          {
+            "field": "date_décès",
+            "label": "Issue (décès)",
+            "queryValue": "Survivant",
+            "candidateValue": "Survivant",
+            "strength": "high",
+            "reason": "Même issue"
+          },
+          {
+            "field": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "queryValue": "Voie basse",
+            "candidateValue": "Voie basse",
+            "strength": "high",
+            "reason": "Même voie"
+          },
+          {
+            "field": "type_mariage",
+            "label": "Consanguinité",
+            "queryValue": "Consanguin",
+            "candidateValue": "Consanguin",
+            "strength": "high",
+            "reason": "Même type"
+          }
+        ],
+        "fields": [
+          {
+            "key": "diagnostic_admission",
+            "label": "Diagnostic admission",
+            "value": "DRNN sur grande prématurité",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "sexe_nouveau_né",
+            "label": "Sexe",
+            "value": "Masculin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Match exact"
+          },
+          {
+            "key": "date_naissance",
+            "label": "Date de naissance",
+            "value": "2023-04-19",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "type_mariage",
+            "label": "Consanguinité",
+            "value": "Consanguin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même type"
+          },
+          {
+            "key": "degré_consanguinité",
+            "label": "Degré consanguinité",
+            "value": "1",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ville_origine",
+            "label": "Ville",
+            "value": "Tagfayt",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "âge_mère",
+            "label": "Âge mère",
+            "value": "25",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "antécédent_mère",
+            "label": "Antécédents mère",
+            "value": "G5 P3 E3 (Atcds de 2 fausses couches)",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "nombre_fausses_accouchement",
+            "label": "Fausses couches",
+            "value": "2",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "type_grossesse",
+            "label": "Type grossesse",
+            "value": "bien suivie",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "suivi_grossesse",
+            "label": "Suivi grossesse",
+            "value": "True",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "grossesse_mené_à_terme",
+            "label": "Grossesse à terme",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "dubowitz",
+            "label": "Âge Gestationnel",
+            "value": "31 SA",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Écart: 2 semaines"
+          },
+          {
+            "key": "type_accouchement",
+            "label": "Type accouchement",
+            "value": "Médicalisé",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "value": "Voie basse",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même voie"
+          },
+          {
+            "key": "groupage_maman",
+            "label": "Groupage maman",
+            "value": "O+",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "couleur",
+            "label": "Couleur",
+            "value": "rose",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "tonicité",
+            "label": "Tonicité",
+            "value": "hypotonique",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "réactivité",
+            "label": "Réactivité",
+            "value": "hyporéactif",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RSD",
+            "label": "RSD",
+            "value": "faibles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RA",
+            "label": "RA",
+            "value": "faibles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_FC",
+            "label": "FC",
+            "value": "125 Bpm",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_TRC",
+            "label": "TRC",
+            "value": "<3 sec",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SS",
+            "label": "Score Silverman",
+            "value": "3/10ème (tirage intercostal + entonnoir xyphoidien + geignement expiratoire)",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SaO2",
+            "label": "SaO2",
+            "value": "80% AAA et 98% sous CPAP",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_FR",
+            "label": "FR",
+            "value": "42",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "poids",
+            "label": "Poids",
+            "value": "1.3",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "taille",
+            "label": "Taille",
+            "value": "43.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "périmètre_crânien",
+            "label": "Périmètre crânien",
+            "value": "30.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "MV",
+            "label": "MV",
+            "value": "Hypotonique et hyporéactif",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "râles_auscultation",
+            "label": "Râles",
+            "value": "Pas de râles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "thorax_morphologie",
+            "label": "Thorax",
+            "value": "Normal",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "abdomen",
+            "label": "Abdomen",
+            "value": "Abdomen souple",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "masse_palpable",
+            "label": "masse_palpable",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "HSMG",
+            "label": "HSMG",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "OGE_sexe",
+            "label": "OGE",
+            "value": "Masculin",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "testicules",
+            "label": "Testicules",
+            "value": "En place",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hydrocèle",
+            "label": "hydrocèle",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "bilan_malformatif",
+            "label": "Bilan malformatif",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "konakion",
+            "label": "konakion",
+            "value": "Surfactant (2 doses)",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "radio_thorax",
+            "label": "Radio thorax",
+            "value": "Rx de thorax",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "MEC",
+            "label": "Mise en condition",
+            "value": "table chauffante, oxygénothérapie: CPAP",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "plan_infectieux",
+            "label": "Plan infectieux",
+            "value": "PCT 0.34",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "plan_métabolique",
+            "label": "Plan métabolique",
+            "value": "LDH 701, CPK 433, calcémie 82, albuminémie 26",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          }
+        ],
+        "match_count": 5,
+        "total_match_fields": 5,
+        "is_deceased": false
+      },
+      {
+        "source_file": "cr_1128.json",
+        "similarity_score": 64.7,
+        "matches": [
+          {
+            "field": "sexe_nouveau_né",
+            "label": "Sexe",
+            "queryValue": "Masculin",
+            "candidateValue": "Masculin",
+            "strength": "high",
+            "reason": "Match exact"
+          },
+          {
+            "field": "dubowitz",
+            "label": "Âge Gestationnel",
+            "queryValue": "33SA",
+            "candidateValue": "31 SA",
+            "strength": "high",
+            "reason": "Écart: 2 semaines"
+          },
+          {
+            "field": "date_décès",
+            "label": "Issue (décès)",
+            "queryValue": "Survivant",
+            "candidateValue": "Survivant",
+            "strength": "high",
+            "reason": "Même issue"
+          },
+          {
+            "field": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "queryValue": "Voie basse",
+            "candidateValue": "Voie basse",
+            "strength": "high",
+            "reason": "Même voie"
+          },
+          {
+            "field": "type_mariage",
+            "label": "Consanguinité",
+            "queryValue": "Consanguin",
+            "candidateValue": "Consanguin",
+            "strength": "high",
+            "reason": "Même type"
+          }
+        ],
+        "fields": [
+          {
+            "key": "diagnostic_admission",
+            "label": "Diagnostic admission",
+            "value": "DRNN sur grande prématurité",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "sexe_nouveau_né",
+            "label": "Sexe",
+            "value": "Masculin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Match exact"
+          },
+          {
+            "key": "date_naissance",
+            "label": "Date de naissance",
+            "value": "2023-04-19",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "type_mariage",
+            "label": "Consanguinité",
+            "value": "Consanguin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même type"
+          },
+          {
+            "key": "degré_consanguinité",
+            "label": "Degré consanguinité",
+            "value": "1",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ville_origine",
+            "label": "Ville",
+            "value": "Tagfayt",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "âge_mère",
+            "label": "Âge mère",
+            "value": "25",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "antécédent_mère",
+            "label": "Antécédents mère",
+            "value": "Atcds de 2 fausses couches",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "nombre_fausses_accouchement",
+            "label": "Fausses couches",
+            "value": "2",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "type_grossesse",
+            "label": "Type grossesse",
+            "value": "bien suivie",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "suivi_grossesse",
+            "label": "Suivi grossesse",
+            "value": "True",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "grossesse_mené_à_terme",
+            "label": "Grossesse à terme",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "dubowitz",
+            "label": "Âge Gestationnel",
+            "value": "31 SA",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Écart: 2 semaines"
+          },
+          {
+            "key": "type_accouchement",
+            "label": "Type accouchement",
+            "value": "Médicalisé",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "value": "Voie basse",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même voie"
+          },
+          {
+            "key": "anamnèse_infectieuse",
+            "label": "Anamnèse infectieuse",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "groupage_maman",
+            "label": "Groupage maman",
+            "value": "O+",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "couleur",
+            "label": "Couleur",
+            "value": "rose",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "tonicité",
+            "label": "Tonicité",
+            "value": "hypotonique",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "réactivité",
+            "label": "Réactivité",
+            "value": "hyporéactif",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RSD",
+            "label": "RSD",
+            "value": "faible",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RA",
+            "label": "RA",
+            "value": "faible",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_FC",
+            "label": "FC",
+            "value": "125 Bpm",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_TRC",
+            "label": "TRC",
+            "value": "<3 sec",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SS",
+            "label": "Score Silverman",
+            "value": "3/10ème (tirage intercostal + entonnoir xyphoidien + geignement expiratoire)",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SaO2",
+            "label": "SaO2",
+            "value": "80% AAA et 98% sous CPAP",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_FR",
+            "label": "FR",
+            "value": "42 cm",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "poids",
+            "label": "Poids",
+            "value": "1.3",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "taille",
+            "label": "Taille",
+            "value": "43.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "périmètre_crânien",
+            "label": "Périmètre crânien",
+            "value": "30.0",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "MV",
+            "label": "MV",
+            "value": "hypotonique et hyporéactif",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "râles_auscultation",
+            "label": "Râles",
+            "value": "pas de râles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "thorax_morphologie",
+            "label": "Thorax",
+            "value": "normal",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "abdomen",
+            "label": "Abdomen",
+            "value": "souple",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "masse_palpable",
+            "label": "masse_palpable",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "HSMG",
+            "label": "HSMG",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "OGE_sexe",
+            "label": "OGE",
+            "value": "masculin",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "testicules",
+            "label": "Testicules",
+            "value": "en place",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hydrocèle",
+            "label": "hydrocèle",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "bilan_malformatif",
+            "label": "Bilan malformatif",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "radio_thorax",
+            "label": "Radio thorax",
+            "value": "Rx de thorax",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "MEC",
+            "label": "Mise en condition",
+            "value": "table chauffante, oxygénothérapie : CPAP",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "plan_infectieux",
+            "label": "Plan infectieux",
+            "value": "PCT à 0.34",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "plan_métabolique",
+            "label": "Plan métabolique",
+            "value": "LDH à 701 CPK à 433 calcémie correcte à 82 albuminémie correcte à 26",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          }
+        ],
+        "match_count": 5,
+        "total_match_fields": 5,
+        "is_deceased": false
+      },
+      {
+        "source_file": "cr_1016.json",
+        "similarity_score": 64.3,
+        "matches": [
+          {
+            "field": "sexe_nouveau_né",
+            "label": "Sexe",
+            "queryValue": "Masculin",
+            "candidateValue": "Masculin",
+            "strength": "high",
+            "reason": "Match exact"
+          },
+          {
+            "field": "dubowitz",
+            "label": "Âge Gestationnel",
+            "queryValue": "33SA",
+            "candidateValue": "32 SA: CTC non reçue",
+            "strength": "high",
+            "reason": "Écart: 1 semaines"
+          },
+          {
+            "field": "date_décès",
+            "label": "Issue (décès)",
+            "queryValue": "Survivant",
+            "candidateValue": "Survivant",
+            "strength": "high",
+            "reason": "Même issue"
+          },
+          {
+            "field": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "queryValue": "Voie basse",
+            "candidateValue": "Voie basse",
+            "strength": "high",
+            "reason": "Même voie"
+          },
+          {
+            "field": "type_mariage",
+            "label": "Consanguinité",
+            "queryValue": "Consanguin",
+            "candidateValue": "Consanguin",
+            "strength": "high",
+            "reason": "Même type"
+          }
+        ],
+        "fields": [
+          {
+            "key": "diagnostic_admission",
+            "label": "Diagnostic admission",
+            "value": "RPM supérieur à 72h",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "date_entrée",
+            "label": "Date d'entrée",
+            "value": "24/08/2023",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "date_sortie",
+            "label": "Date de sortie",
+            "value": "26/08/2023",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "sexe_nouveau_né",
+            "label": "Sexe",
+            "value": "Masculin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Match exact"
+          },
+          {
+            "key": "date_naissance",
+            "label": "Date de naissance",
+            "value": "24/08/2023",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "type_mariage",
+            "label": "Consanguinité",
+            "value": "Consanguin",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même type"
+          },
+          {
+            "key": "degré_consanguinité",
+            "label": "Degré consanguinité",
+            "value": "3",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ville_origine",
+            "label": "Ville",
+            "value": "Saidia",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "ville_actuelle",
+            "label": "ville_actuelle",
+            "value": "Saidia",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "couverture_sanitaire",
+            "label": "Couverture sanitaire",
+            "value": "CNSS",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "âge_mère",
+            "label": "Âge mère",
+            "value": "22",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "antécédent_mère",
+            "label": "Antécédents mère",
+            "value": "G1P1, sans ATCDs pathologique notables",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "suivi_grossesse",
+            "label": "Suivi grossesse",
+            "value": "True",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "grossesse_mené_à_terme",
+            "label": "Grossesse à terme",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "dubowitz",
+            "label": "Âge Gestationnel",
+            "value": "32 SA: CTC non reçue",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Écart: 1 semaines"
+          },
+          {
+            "key": "type_accouchement",
+            "label": "Type accouchement",
+            "value": "Médicalisé",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "voie_accouchement",
+            "label": "Voie d'accouchement",
+            "value": "Voie basse",
+            "isMatch": true,
+            "matchStrength": "high",
+            "matchReason": "Même voie"
+          },
+          {
+            "key": "anamnèse_infectieuse",
+            "label": "Anamnèse infectieuse",
+            "value": "True",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "groupage_maman",
+            "label": "Groupage maman",
+            "value": "B rhésus positive",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "APGAR_naissance",
+            "label": "APGAR",
+            "value": "DRNN précoce sur prématurité",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "couleur",
+            "label": "Couleur",
+            "value": "rose",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "tonicité",
+            "label": "Tonicité",
+            "value": "hypotonique",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "réactivité",
+            "label": "Réactivité",
+            "value": "hyporéactif",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RSD",
+            "label": "RSD",
+            "value": "faibles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "RA",
+            "label": "RA",
+            "value": "faibles",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_FC",
+            "label": "FC",
+            "value": "146 Bpm",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "hémodynamique_TRC",
+            "label": "TRC",
+            "value": "<3 sec",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SS",
+            "label": "Score Silverman",
+            "value": "facies dysmorphique",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_SaO2",
+            "label": "SaO2",
+            "value": "86%",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "respiratoire_FR",
+            "label": "FR",
+            "value": "62 cpm",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "glycémie_capillaire",
+            "label": "Glycémie capillaire",
+            "value": "41% AAA puis à 86% sous 31 d’O2",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "poids",
+            "label": "Poids",
+            "value": "1.5",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "râles_auscultation",
+            "label": "Râles",
+            "value": "râles sous crépitants",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "thorax_morphologie",
+            "label": "Thorax",
+            "value": "normale",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "abdomen",
+            "label": "Abdomen",
+            "value": "souple",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "masse_palpable",
+            "label": "masse_palpable",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "HSMG",
+            "label": "HSMG",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "B1B2",
+            "label": "B1 B2",
+            "value": "bien perçus",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "souffle_surajouté",
+            "label": "Souffle",
+            "value": "False",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "OGE_sexe",
+            "label": "OGE",
+            "value": "masculin",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "testicules",
+            "label": "Testicules",
+            "value": "non palpable",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "radio_thorax",
+            "label": "Radio thorax",
+            "value": "MMH stade 3",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          },
+          {
+            "key": "MEC",
+            "label": "Mise en condition",
+            "value": "table chauffante, cathéter ombilicale",
+            "isMatch": false,
+            "matchStrength": "none",
+            "matchReason": null
+          }
+        ],
+        "match_count": 5,
+        "total_match_fields": 5,
+        "is_deceased": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+/* ── Patient Record Page ── */
+.record-page {
+    padding-bottom: 3rem;
+}
+
+.record-back-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.record-back-header h1 {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--text, #e0e0e0);
+}
+
+.record-meta {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+.record-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.82rem;
+    color: var(--text-muted, #888);
+}
+
+.record-meta-item strong {
+    color: var(--text, #e0e0e0);
+    font-weight: 600;
+}
+
+/* ── Section Groups ── */
+.record-section {
+    margin-bottom: 1.5rem;
+}
+
+.record-section__title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text, #e0e0e0);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.record-fields-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0.5rem 1.5rem;
+}
+
+.record-field {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+.record-field__label {
+    font-size: 0.78rem;
+    color: var(--text-muted, #888);
+    min-width: 130px;
+    flex-shrink: 0;
+}
+
+.record-field__value {
+    font-size: 0.88rem;
+    color: var(--text, #e0e0e0);
+    font-weight: 500;
+}
+
+.record-field__value--null {
+    color: rgba(255, 255, 255, 0.15);
+    font-style: italic;
+    font-weight: 400;
+}
+
+/* ── Raw Report Section ── */
+.raw-report-text {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    font-size: 0.88rem;
+    line-height: 1.7;
+    color: var(--text-muted, #aaa);
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+/* ── Delete Button ── */
+.btn--danger {
+    background: rgba(248, 113, 113, 0.1);
+    border: 1px solid rgba(248, 113, 113, 0.3);
+    color: #f87171;
+    padding: 0.5rem 1.25rem;
+    border-radius: 10px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.btn--danger:hover {
+    background: rgba(248, 113, 113, 0.2);
+    border-color: rgba(248, 113, 113, 0.5);
+}
+
+.record-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
